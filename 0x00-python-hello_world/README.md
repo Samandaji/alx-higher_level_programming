@@ -1,1 +1,1 @@
-This directory contains the task files for the repo: 0x00. Python - Hello, World
+This directory contains the task files for the task : 0x00
